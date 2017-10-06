@@ -1,1 +1,1 @@
-![Image]('./images')
+![Image]('./images/myAvatar.svg')
