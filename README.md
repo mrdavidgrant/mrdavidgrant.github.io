@@ -1,1 +1,2 @@
-![Image]('./images/myAvatar.svg')
+![Image](./images/myAvatar.svg)
+# Portfolio of David Grant
