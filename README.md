@@ -17,7 +17,7 @@ In addition to web development, I have experience working and maintaining Active
 
 ***************
 
-### Node.js/Express/PostgreSQL
+## Node.js/Express/PostgreSQL
 - <a href="https://mrdavidgrant.github.io/the-eating-place">TWILIO API</a> 
 
 A simple front-end designed to allow a user to order food online.  The backend then enters the information into a Postgresql database, and institutes an API call to TWILIO which calls the restaurant to place the order. The system receives phone input from the restaurant, and sends an SMS to the customer to inform them when the order will be ready for pickup.
@@ -37,7 +37,7 @@ knex('users')
 }
 ```
 
-### HTML/SASS/REACT
+## HTML/SASS/REACT
 - <a href='https://mrdavidgrant.github.io/chatty/'>CHATTY</a>
 
 A basic chatroom application, designed to showcase REACT and SASS.
@@ -52,7 +52,7 @@ handleKeyDown(e) {
 }
 ```
 
-### Python
+## Python
 - <a href="https://mrdavidgrant.github.io/workspace_token_test/">Active Directory token Test</a>
 
 Quick file io script to test to see if an AD user has an active VPN token and company assigned notebook.
@@ -66,7 +66,7 @@ with open ('Workspace.csv') as original:
     queryname = csv.DictReader(original)
 ```
 
-### Ladder Logic
+## Ladder Logic
 - <a href="https://www.youtube.com/watch?v=bZGecEJN5HI">View on YouTube</a>
 <div width="100%" margin="0 auto">
 <a href="https://www.youtube.com/watch?feature-player_embedded&v=bZGecEJN5HI" target="_blank"><img src="https://img.youtube.com/vi/bZGecEJN5HI/3.jpg" width="240px" height="180px" border="10" style="margin: 0 auto" /></a></div>
