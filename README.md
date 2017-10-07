@@ -65,7 +65,7 @@ with open ('Workspace.csv') as original:
     writer.writeheader()
     queryname = csv.DictReader(original)
 ```
-## C&#35;
+## C# #
 - <a href="https://mrdavidgrant.github.io/infopath_forms/">Infopath Form Fill in C#</a>
 
 Quick script to autofill information on a Service Desk submission form with information obtained through Active Directory
