@@ -17,7 +17,7 @@ In addition to web development, I have experience working and maintaining Active
 
 > ~ Greg E, Price Waterhouse Coopers
 
-=======
+***************
 
 ## Node.js/Express/PostgreSQL
 - <a href="https://mrdavidgrant.github.io/the-eating-place">TWILIO API Project</a> 
