@@ -64,3 +64,8 @@ with open ('Workspace.csv') as original:
     writer.writeheader()
     queryname = csv.DictReader(original)
 ```
+
+### Ladder Logic
+- <a href="https://www.youtube.com/watch?feature-player_embedded&v=bZGecEJN5HI" target="_blank"><img src="https://img.youtube.com/vi/bZGecEJN5HI/0.jpg" width="240px" height="180px" border="10" /></a>
+
+A 2006 project with the NSCC and Brain Repair Center for the QEII Health Sciences center in Halifax, Nova Scotia to create a robotic injection device for neurosurgery.
