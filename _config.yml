@@ -2,3 +2,4 @@ theme: jekyll-theme-time-machine
 description: Full Stack Problem Solver
 google_analytics: UA-55846181-2
 title: 'David Grant'
+show_downloads: "false"
