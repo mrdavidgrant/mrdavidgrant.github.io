@@ -66,6 +66,7 @@ with open ('Workspace.csv') as original:
 ```
 
 ### Ladder Logic
+- <a href="https://www.youtube.com/watch?v=bZGecEJN5HI">View on YouTube</a>
 <a href="https://www.youtube.com/watch?feature-player_embedded&v=bZGecEJN5HI" target="_blank"><img src="https://img.youtube.com/vi/bZGecEJN5HI/3.jpg" width="240px" height="180px" border="10" /></a>
 
 A 2006 project with the NSCC and Brain Repair Center for the QEII Health Sciences center in Halifax, Nova Scotia to create a robotic injection device for neurosurgery.  Device is currently in use at multiple hospitals worldwide.
