@@ -65,6 +65,19 @@ with open ('Workspace.csv') as original:
     writer.writeheader()
     queryname = csv.DictReader(original)
 ```
+## C#
+- <a href="https://mrdavidgrant.github.io/infopath_forms/">Infopath Form Fill in C#</a>
+
+Quick script to autofill information on a Service Desk submission form with information obtained through Active Directory
+
+```
+string FirstName = employee.Properties["givenName"].Value.ToString();
+string LastName = employee.Properties["sn"].Value.ToString();
+string CommonName = employee.Properties["cn"].Value.ToString();
+string Mail = employee.Properties["mail"].Value.ToString();
+string Location = employee.Properties["extensionAttribute10"].Value.ToString();
+string Title = employee.Properties["title"].Value.ToString();
+```
 
 ## Ladder Logic
 - <a href="https://www.youtube.com/watch?v=bZGecEJN5HI">View on YouTube</a>
