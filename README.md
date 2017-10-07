@@ -1,4 +1,4 @@
-![Avatar](./images/myAvatar.svg =100x100)
+<img src="./images/myAvatar" width="100px" height="100px" style="float: left">
 # Portfolio of David Grant
 
 I am a Full Stack Web Developer and Problem Solver with experience programming in Multiple Languages and frameworks.  My background is in IT System Administration and Support with an extensive client list ranging from ISPs to large Provincial Corporations.
@@ -14,6 +14,7 @@ knex('users')
 })
 }
 ```
+- https://mrdavidgrant.github.io/the-eating-place/ 
 
 ## HTML/SASS/REACT
 ```javascript
