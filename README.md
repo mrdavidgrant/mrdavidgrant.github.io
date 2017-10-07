@@ -70,7 +70,7 @@ with open ('Workspace.csv') as original:
 
 Quick script to autofill information on a Service Desk submission form with information obtained through Active Directory
 
-```
+```c#
 string FirstName = employee.Properties["givenName"].Value.ToString();
 string LastName = employee.Properties["sn"].Value.ToString();
 string CommonName = employee.Properties["cn"].Value.ToString();
