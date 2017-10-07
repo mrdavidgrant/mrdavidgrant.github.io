@@ -5,7 +5,7 @@
 
 # Portfolio of David Grant
 
-<img src="./images/myAvatar.svg" width="100px" height="100px" style="float: left">
+<img src="./images/myAvatar.svg" width="100px" height="100px" style="float: left, margin-right: 12px">
 
 I am a Full Stack Web Developer and Problem Solver with experience programming in Multiple Languages and frameworks.  My background is in IT System Administration and Support with an extensive client list ranging from ISPs to large Provincial Corporations.
 
