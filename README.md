@@ -1,7 +1,7 @@
 
 > David, I just wanted to take a moment and appreciate you taking initiative and thinking outside of the box to ensure efficiency and success. Nicely done!
 
-<span style="float: right">~ Dyan L, Metrolinx</span>
+<span style="justify: right">~ Dyan L, Metrolinx</span>
 
 # Portfolio of David Grant
 
@@ -14,7 +14,7 @@ In addition to web development, I have experience working and maintaining Active
 
 > Wanted to just give you a big kudos for what you've done on this - great initiative! Hope you don't mind that I brought it to [management]'s attention today to help expedite this... It's looking very polished... I will line up our internal change management folks as I think we'll have to draft some communication to Mx_All on this initiative (look at you...making a different[sic] company wide!)
 
-<span style="float: right">~ Greg E, Price Waterhouse Coopers</span>
+<span style="justify: right">~ Greg E, Price Waterhouse Coopers</span>
 
 ***************
 
