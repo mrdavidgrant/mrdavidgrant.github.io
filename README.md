@@ -1,6 +1,7 @@
 # Portfolio of David Grant
 
 > David, I just wanted to take a moment and appreciate you taking initiative and thinking outside of the box to ensure efficiency and success. Nicely done!
+
 > ~ Dyan L, Metrolinx
 
 <img src="./images/myAvatar.svg" width="100px" height="100px" style="float: left">
@@ -10,8 +11,8 @@ I am a Full Stack Web Developer and Problem Solver with experience programming i
 In addition to web development, I have experience working and maintaining Active Directory, Exchange servers, and ServiceNow (Administration and Development).
 
 
-> Wanted to just give you a big kudos for what you've done on this - great initiative! Hope you don't mind that I brought it to [management]'s attention today to help expedite this... It's looking very polished...
-> I will line up our internal change management folks as I think we'll have to draft some communication to Mx_All on this initiative (look at you...making a different[sic] company wide!)
+> Wanted to just give you a big kudos for what you've done on this - great initiative! Hope you don't mind that I brought it to [management]'s attention today to help expedite this... It's looking very polished... I will line up our internal change management folks as I think we'll have to draft some communication to Mx_All on this initiative (look at you...making a different[sic] company wide!)
+
 > ~ Greg E, Price Waterhouse Coopers
 ---
 
