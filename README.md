@@ -1,9 +1,9 @@
-![Avatar =100x100](./images/myAvatar.svg)
+![Avatar](./images/myAvatar.svg =100x100)
 # Portfolio of David Grant
 
 I am a Full Stack Web Developer and Problem Solver with experience programming in Multiple Languages and frameworks.
 
-#Node.js/PostgreSQL
+# Node.js/Express/PostgreSQL
 ```javascript
 function insertUser (submission) {
 knex('users')
@@ -15,7 +15,7 @@ knex('users')
 }
 ```
 
-#HTML/SASS/REACT
+# HTML/SASS/REACT
 ```javascript
 handleKeyDown(e) {
   if(e.key == "Enter"){
@@ -26,7 +26,7 @@ handleKeyDown(e) {
 }
 ```
 
-#Python
+# Python
 ```python
 with open ('Workspace.csv') as original:
   with open('Workspace_Results.csv', 'w', newline='') as output:
