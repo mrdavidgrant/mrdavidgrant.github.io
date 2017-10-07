@@ -1,10 +1,9 @@
-# Portfolio of David Grant
 
 > David, I just wanted to take a moment and appreciate you taking initiative and thinking outside of the box to ensure efficiency and success. Nicely done!
 
 > ~ Dyan L, Metrolinx
 
-### About
+# Portfolio of David Grant
 
 <img src="./images/myAvatar.svg" width="100px" height="100px" style="float: left">
 
