@@ -1,20 +1,18 @@
 
 > David, I just wanted to take a moment and appreciate you taking initiative and thinking outside of the box to ensure efficiency and success. Nicely done!
+~ Dyan L, Metrolinx
 
-<span style="justify: right">~ Dyan L, Metrolinx</span>
-
-# Portfolio of David Grant
+# About Me
 
 <img src="./images/myAvatar.svg" width="100px" height="100px" style="float: left; margin-right: 12px">
 
-I am a Full Stack Web Developer and Problem Solver with experience programming in Multiple Languages and frameworks.  My background is in IT System Administration and Support with an extensive client list ranging from ISPs to large Provincial Corporations.
+I am a Full Stack Web Developer and Problem Solver with experience programming in Multiple Languages and frameworks.  My background is in IT System Administration and Support with an extensive client list ranging from ISPs to large Provincial Corporations.  I wrote my first line of code in 1984, and am finally making the turn to doing it professionally. 
 
 In addition to web development, I have experience working and maintaining Active Directory, Exchange servers, and ServiceNow (Administration and Development).
 
 
-> Wanted to just give you a big kudos for what you've done on this - great initiative! Hope you don't mind that I brought it to [management]'s attention today to help expedite this... It's looking very polished... I will line up our internal change management folks as I think we'll have to draft some communication to Mx_All on this initiative (look at you...making a different[sic] company wide!)
-
-<span style="justify: right">~ Greg E, Price Waterhouse Coopers</span>
+> Wanted to just give you a big kudos for what you've done on this - great initiative! Hope you don't mind that I brought it to [management]'s attention today to help expedite this... It's looking very polished... I will line up our internal change management folks... on this initiative (look at you...making a different[sic] company wide!)
+~ Greg E, Price Waterhouse Coopers
 
 ***************
 
