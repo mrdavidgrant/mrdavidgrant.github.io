@@ -16,7 +16,7 @@ In addition to web development, I have experience working and maintaining Active
 
 ***************
 
-## Node.js/Express/PostgreSQL
+### Node.js/Express/PostgreSQL
 - <a href="https://mrdavidgrant.github.io/the-eating-place">TWILIO API</a> 
 
 A simple front-end designed to allow a user to order food online.  The backend then enters the information into a Postgresql database, and institutes an API call to TWILIO which calls the restaurant to place the order. The system receives phone input from the restaurant, and sends an SMS to the customer to inform them when the order will be ready for pickup.
@@ -36,7 +36,7 @@ knex('users')
 }
 ```
 
-## HTML/SASS/REACT
+### HTML/SASS/REACT
 - <a href='https://mrdavidgrant.github.io/chatty/'>CHATTY</a>
 
 A basic chatroom application, designed to showcase REACT and SASS.
@@ -51,7 +51,7 @@ handleKeyDown(e) {
 }
 ```
 
-## Python
+### Python
 - <a href="https://mrdavidgrant.github.io/workspace_token_test/">Active Directory token Test</a>
 
 Quick file io script to test to see if an AD user has an active VPN token and company assigned notebook.
