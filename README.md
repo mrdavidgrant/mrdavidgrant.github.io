@@ -1,4 +1,9 @@
-<div width="100%" style="margin: 0 auto"><a class="linkedin-button" href="https://ca.linkedin.com/in/mrdavidgrant" target="blank"><img width="30%" height="28px" alt="View David R. Grant's profile on LinkedIn" src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" border="0" height="28px"></a><a href="https://twitter.com/ITDaveG" target="blank"><img height="28px" src="images/twitterFollow.png" border="0"></a><a class="github-button" aria-label="Follow @mrdavidgrant on GitHub" href="https://github.com/mrdavidgrant" data-size="large" width="30%">Follow @mrdavidgrant</a><a class="button" aria-label="Download my Resume" href="https://mrdavidgrant.github.io/David_Grant_Resume.pdf" data-size="large">Download Resume</a></div>
+<div width="100%" style="margin: 0 auto">
+  <a class="linkedin-button" href="https://ca.linkedin.com/in/mrdavidgrant" target="blank"><img width="30%" height="28px" alt="View David R. Grant's profile on LinkedIn" src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" border="0" height="28px"></a>
+  <a href="https://twitter.com/ITDaveG" target="blank"><img height="28px" src="images/twitterFollow.png" border="0"></a>
+  <a class="github-button" aria-label="Follow @mrdavidgrant on GitHub" href="https://github.com/mrdavidgrant" data-size="large" width="30%">Follow @mrdavidgrant</a>
+<a class="github-button" aria-label="Download Resume" href="https://mrdavidgrant.github.io/David_Grant_resume.pdf" data-icon="octicon-cloud-download">Download Resume</a>
+</div>
 
 > David, I just wanted to take a moment and appreciate you taking initiative and thinking outside of the box to ensure efficiency and success. Nicely done!
 ~ Dyan L, Metrolinx
@@ -81,10 +86,10 @@ string Title = employee.Properties["title"].Value.ToString();
 
 ## Ladder Logic
 - <a href="https://www.youtube.com/watch?v=bZGecEJN5HI">View on YouTube</a>
-<div width="100%" margin="0 auto">
-<a href="https://www.youtube.com/watch?feature-player_embedded&v=bZGecEJN5HI" target="_blank"><img src="https://img.youtube.com/vi/bZGecEJN5HI/3.jpg" width="240px" height="180px" border="10" style="margin: 0 auto" /></a></div>
 
 A 2006 project with the NSCC and Brain Repair Center for the QEII Health Sciences center in Halifax, Nova Scotia to create a robotic injection device for neurosurgery.  Device is currently in use at multiple hospitals worldwide.
+<div width="100%" margin="0 auto">
+<a href="https://www.youtube.com/watch?feature-player_embedded&v=bZGecEJN5HI" target="_blank"><img src="https://img.youtube.com/vi/bZGecEJN5HI/3.jpg" width="240px" height="180px" border="1 /></a></div>
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
