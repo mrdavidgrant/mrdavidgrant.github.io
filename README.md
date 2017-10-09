@@ -89,7 +89,8 @@ string Title = employee.Properties["title"].Value.ToString();
 
 A 2006 project with the NSCC and Brain Repair Center for the QEII Health Sciences center in Halifax, Nova Scotia to create a robotic injection device for neurosurgery.  Device is currently in use at multiple hospitals worldwide.
 <div width="100%" margin="0 auto">
-<a href="https://www.youtube.com/watch?feature-player_embedded&v=bZGecEJN5HI" target="_blank"><img src="https://img.youtube.com/vi/bZGecEJN5HI/3.jpg" width="240px" height="180px" border="1 /></a></div>
+<a href="https://www.youtube.com/watch?feature-player_embedded&v=bZGecEJN5HI" target="_blank"><img src="https://img.youtube.com/vi/bZGecEJN5HI/3.jpg" width="240px" height="180px" border="1" /></a>
+</div>
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
