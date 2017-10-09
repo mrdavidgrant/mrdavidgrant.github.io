@@ -1,6 +1,6 @@
 <div width="100%" style="margin: 0 auto">
   <a class="github-button" aria-label="Download Resume" href="https://mrdavidgrant.github.io/David_Grant_resume.pdf" data-icon="octicon-cloud-download" height="28px"  width="25%" data-size="large">Download Resume</a>
-  <a class="linkedin-button" href="https://ca.linkedin.com/in/mrdavidgrant" target="blank"><img width="20%" height="28px" alt="View David R. Grant's profile on LinkedIn" src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" border="0"></a>
+  <a class="linkedin-button" href="https://ca.linkedin.com/in/mrdavidgrant" target="blank"><img height="28px" alt="View David R. Grant's profile on LinkedIn" src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" border="0"></a>
   <a href="https://twitter.com/ITDaveG" target="blank"><img height="28px" width=" 20%" src="images/twitterFollow.png" border="0"></a>
   <a class="github-button" aria-label="Follow @mrdavidgrant on GitHub" href="https://github.com/mrdavidgrant" data-size="large" width="25%">Follow @mrdavidgrant</a>
 </div>
